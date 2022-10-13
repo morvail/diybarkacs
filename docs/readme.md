@@ -1,3 +1,3 @@
 # DIY Barkácsáruház
 
-## Készítette: Morvai Letícia
+## Készítette: Morvai Letícia, Dávid Ivonn
